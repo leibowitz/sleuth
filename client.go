@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/ursiform/logger"
+	"github.com/leibowitz/logger"
 	"github.com/zeromq/gyre"
 )
 

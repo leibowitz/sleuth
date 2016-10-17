@@ -12,7 +12,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/ursiform/logger"
+	"github.com/leibowitz/logger"
 )
 
 const GROUP = "SLEUTH-vT"

@@ -7,7 +7,7 @@ package sleuth
 import (
 	"net/http"
 
-	"github.com/ursiform/logger"
+	"github.com/leibowitz/logger"
 )
 
 // Config is the configuration specification for sleuth client instantiation.

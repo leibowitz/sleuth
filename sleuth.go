@@ -13,7 +13,7 @@ package sleuth
 import (
 	"net/http"
 
-	"github.com/ursiform/logger"
+	"github.com/leibowitz/logger"
 	"github.com/zeromq/gyre"
 )
 
